@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.10 (1566374 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="25795401" visible="true" version="28" changeset="131770588" timestamp="2023-01-27T12:10:52Z" user="domoritz" uid="469284">
+  <nd ref="281362535"/>
+  <nd ref="281362536"/>
+  <nd ref="303453748"/>
+  <nd ref="281362537"/>
+  <nd ref="281362538"/>
+  <nd ref="281362539"/>
+  <nd ref="281362540"/>
+  <nd ref="281362541"/>
+  <nd ref="281362542"/>
+  <nd ref="281362543"/>
+  <nd ref="281362544"/>
+  <nd ref="9246408619"/>
+  <nd ref="281362545"/>
+  <nd ref="281362546"/>
+  <nd ref="281362547"/>
+  <nd ref="281362548"/>
+  <nd ref="281362549"/>
+  <nd ref="281362550"/>
+  <nd ref="281362551"/>
+  <nd ref="281362552"/>
+  <nd ref="281362553"/>
+  <nd ref="281362554"/>
+  <nd ref="281362555"/>
+  <nd ref="281362556"/>
+  <nd ref="9426522874"/>
+  <nd ref="281362557"/>
+  <nd ref="281362558"/>
+  <nd ref="281362559"/>
+  <nd ref="302962339"/>
+  <nd ref="302962338"/>
+  <nd ref="303350561"/>
+  <nd ref="281362560"/>
+  <nd ref="6784124203"/>
+  <nd ref="303453893"/>
+  <nd ref="303453772"/>
+  <nd ref="303453773"/>
+  <nd ref="281362535"/>
+  <tag k="addr:city" v="Pittsburgh"/>
+  <tag k="addr:housenumber" v="5000"/>
+  <tag k="addr:postcode" v="15213"/>
+  <tag k="addr:state" v="PA"/>
+  <tag k="addr:street" v="Forbes Avenue"/>
+  <tag k="ele" v="296"/>
+  <tag k="landuse" v="university"/>
+  <tag k="name" v="Carnegie Mellon University"/>
+  <tag k="name:ko" v="카네기 멜론 대학"/>
+  <tag k="website" v="https://www.cmu.edu"/>
+ </way>
+</osm>
